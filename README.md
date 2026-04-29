@@ -4,10 +4,10 @@
 This project focuses on building a modern data warehouse using SQL Server. It covers the full data pipeline, including data extraction, transformation (ETL), data modeling, and analytics to support business decision-making.
 
 ## Objectives
-. Design and implement a scalable data warehouse
-. Develop efficient ETL processes
-. Create structured data models (Star schema)
-. Enable data analysis and reporting
+ Design and implement a scalable data warehouse
+ Develop efficient ETL processes
+ Create structured data models (Star schema)
+ Enable data analysis and reporting
 
 ## Tools & Technologies
 . SQL Server
