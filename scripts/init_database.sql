@@ -16,12 +16,12 @@ GO
 IF EXISTS (SELECT 1 FROM sys.databases WHERE name = 'Data_warehouse')
 BEGIN
     ALTER DATABASE Data_warehouse SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
-    DROP Data_warehouse
+    DROP DATABASE Data_warehouse;
 END;
 GO
 
---Creating Data_werehouse
-CREATE DATABASE Data_warehouse
+--Creating Data_warehouse
+CREATE DATABASE Data_warehouse;
 GO
 
 USE Data_warehouse;
