@@ -75,7 +75,7 @@ BEGIN
 END;
 
 CREATE TABLE bronze.erp_loc_a101 (
-    cid INT,
+    cid NVARCHAR(50),
     cntry NVARCHAR(50)
 );
 
