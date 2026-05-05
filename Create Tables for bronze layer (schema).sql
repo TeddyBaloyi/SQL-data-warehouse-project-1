@@ -25,6 +25,7 @@ CREATE TABLE bronze.crm_cst_info (
     cst_material_status NVARCHAR(50),
     cst_gndr NVARCHAR(50),
     cst_create_date DATE
+
 );
 
 -- PRODUCT TABLE
@@ -105,3 +106,4 @@ CREATE TABLE bronze.erp_px_cust_g1v2 (
     subcat NVARCHAR(50),
     maintanace NVARCHAR(50)
 );
+
