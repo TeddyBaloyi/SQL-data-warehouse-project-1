@@ -27,9 +27,9 @@ Six Bronze tables from CSV files that were created from the CRM and ERP source s
 
 ## Silver Layer
 
-## The Silver layer was responsible for cleaning and standardizing the source data.
+The Silver layer was responsible for cleaning and standardizing the source data.
 
-## Activities performed included:
+Activities performed included:
 
 - Data cleaning and standardization
 - Duplicate detection and removal
